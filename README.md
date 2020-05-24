@@ -7,8 +7,10 @@ Directory Structure:
 |-------|BandoriRandomSong.exe <-- Run this file<br>
 |-------|src <br>
 |-------|---|song_list.xlsx 
-<br>
-<br>
+<br><br>
+=== GUI ===<br>
+![alt txt](/img/gui.png)
+<br><br>
 === HOW TO USE === <br>
 1.Set songs in an excel file (path: src/song_list.xlsx) <br>
 2.Double click [BandoriRandomSong.exe] for use the program <br>
