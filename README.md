@@ -4,6 +4,6 @@
 Directory Structure:
 <br>
 |SomeFolder <br>
-        |-- BandoriRandomSong.exe <-- Run this file<br>
-        |-- src <br>
-        |-----|-- song_list.xlsx
+|-------|BandoriRandomSong.exe <-- Run this file<br>
+|-------|src <br>
+|-------|---|song_list.xlsx
